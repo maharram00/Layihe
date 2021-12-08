@@ -1,0 +1,511 @@
+@media (max-width:1200px) {
+
+
+    #slider{
+        width: 100%;
+        height: 100%;
+    }
+
+    //top rated start>>>>>>>>>>>.
+    .top-rated {
+        width: 100%;
+        height: 100%;
+    }
+    //top rated finish>>>>>>>>>>>
+
+
+    // blog posts start>>>>>>>>>
+    .blog-posts {
+        width: 100%;
+        height: 100%;
+    }
+    // blog posts finish>>>>>>>>>
+
+    // more departments start>>>>>>>>>>>>>>>>>>
+    .more-departments {
+        width: 100%;
+        height: 100%;
+    }
+    // more departments finish>>>>>>>>>>>>>>>>>>>>
+
+    // hero section start>>>>>>>>>>>>>>>>>>
+    .hero-section {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+
+        .hero-black {
+            width: 100%;
+            height: 100%;
+
+            span {
+                display: none;
+            }
+
+            .hero-span {
+                display: none;
+            }
+        }
+
+        .hero-text {
+            display: none;
+        }
+
+
+
+
+    }
+    // hero section finish>>>>>>>>>>>>>>>>>>>>
+
+    // new pro start>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    .new-pro {
+        width: 100%;
+        height: 100%;
+
+
+
+        .new-img {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // new pro finish>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+    // featured start>>>>>>>>>>>>>>>>>>>>>>>
+    .featured {
+        width: 100%;
+        height: 100%;
+    }
+    // featured finish>>>>>>>>>>>>>>>>>>>>>>
+
+    // top brands start>>>>>>>>>>>>>>>>>>>>>>
+    #top-brands {
+        width: 100%;
+        height: 100%;
+
+        .brands-text {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            h5 {
+                font-size: 13px;
+            }
+
+            a {
+                display: none;
+
+            }
+        }
+
+    }
+    // top brands finish>>>>>>>>>>>>>>>>>>>>>>>>
+
+    // flash sale start>>>>>>>>>>>>>>>>>>
+    .flash-sale {
+        width: 100%;
+        height: 100%;
+
+
+
+        .flash {
+            .flash-text {
+                display: none;
+            }
+        }
+
+
+        .flash-img {
+            width: 100%;
+
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // flash sale finish>>>>>>>>>>>>>
+
+
+    // popular start>>>>>>>>>>>>>>>>>>>
+    .popular {
+        .popular-box {
+            justify-content: center;
+        }
+    }
+    // popular finish>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+}
+
+
+@media (min-width:556px)and(max-width:992px) {
+    // new pro start>>>>>>>>>>>>>>>>>
+    .new-pro {
+        width: 100%;
+        height: 100%;
+
+
+        .next-text {
+
+            .menu {
+                display: none;
+            }
+        }
+
+        .new-img {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // new pro finish>>>>>>>>>>>>>>>>>>>>
+
+    #slider{
+        width: 100%;
+        height:50vh;
+        // margin-bottom: 60vh;
+
+        .slider-text{
+            // top: 0%;
+
+            h2{
+                font-size: 15px;
+            }
+            p{
+                font-size: 13px;
+            }
+            a{
+                font-size: 10px;
+                width: 150px;
+                margin: 10px 0px;
+                height: 40px;
+            }
+        }
+        .slider-button{
+            display: none;
+
+        }
+
+        
+     
+    }
+    .responsive-slider-button{
+        width: 100%;
+        // height: 600px;
+        text-align: center;
+        // position: absolute;
+        padding: 20px;
+        // top: 100%;
+        // left: 50%;
+        // margin-bottom: 100%;
+        // transform: translateX(-50%);
+        // bottom: 25%;
+        form{
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .button-1,.button-2,.button-3{
+            // background-color: pink;
+            border: none;
+            margin-bottom: 10px;
+            width: 20%;
+            color: #000;
+            background-color: #fff;
+            border: 1px solid gray;
+            border-radius: 5px;
+            padding:0px 10px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            span{
+                font-size: 13px;
+            }
+            i{
+                // padding-top: 5px;
+                font-weight: lighter;
+
+                margin-left: 5px;
+                font-size: 10px;
+            }
+
+        }
+
+        .btn-search{
+            width:14%;
+            // margin-right: 4%;
+
+        }
+
+        .btn-icon, .btn-search{
+            background-color: #B20000;
+            color: #FFF;
+            border: none;
+            height: 36px;
+            // padding: 0%;
+            // font-size: 13px;
+            border-radius: 5px;
+        }
+
+        .btn-icon{
+            width: 6%;
+            // margin-left: 5px;
+        }
+        h5{
+            font-family: sans-serif;
+            color: rgb(27, 24, 24);
+            font-size: 13px;
+            display: block;
+            font-weight: bolder;
+            padding:  0px 20px;
+            margin-bottom: 15px;
+        }
+        
+    }
+
+    // hero section start>>>>>>>>>>>>>>>>>>
+    .hero-section {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+
+        .hero-black {
+            span {
+                display: none;
+            }
+
+            .hero-span {
+                display: none;
+            }
+        }
+
+
+
+        .hero-text {
+            display: none;
+        }
+    }
+    // hero section finish>>>>>>>>>>>>>>>>
+
+    
+
+}
+
+
+@media (min-width:1200px) {
+    // flash sale start>>>>>>>>>>>>>
+    .flash-sale {
+        width: 100%;
+        height: 100%;
+    }
+    // flash sale finish>>>>>>>>>>>>>>>>
+
+    
+
+
+
+}
+
+
+@media (max-width:556px) {
+
+
+
+    // slider start?????????????////
+    #slider{
+        width: 100%;
+        height:50vh;
+
+        .slider-text{
+            // top: 0%;
+
+            h2{
+                font-size: 15px;
+            }
+            p{
+                font-size: 13px;
+            }
+            a{
+                font-size: 10px;
+                width: 150px;
+                margin: 10px 0px;
+                height: 40px;
+            }
+        }
+        .slider-button{
+            display: none;
+
+        }
+
+        
+     
+    }
+    .responsive-slider-button{
+        width: 100%;
+        text-align: center;
+        // position: absolute;
+        padding: 20px;
+        // top: 100%;
+        // left: 50%;
+        // transform: translateX(-50%);
+        // bottom: 25%;
+        
+        .button-1,.button-2,.button-3{
+            // background-color: pink;
+            border: none;
+            margin-bottom: 10px;
+            width: 100%;
+            color: #000;
+            background-color: #fff;
+            border: 1px solid gray;
+            border-radius: 5px;
+            padding:5px 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+        }
+
+        .btn-search{
+            width: 48%;
+            margin-right: 4%;
+
+        }
+
+        .btn-icon, .btn-search{
+            background-color: #9A0000;
+            color: #FFF;
+            height: 40px;
+            border-radius: 5px;
+            border: none;
+        }
+
+        .btn-icon{
+            width: 48%;
+            // margin-left: 5px;
+        }
+        h5{
+            font-family: sans-serif;
+            color: #000;
+            font-size: 13px;
+            display: block;
+            font-weight: bolder;
+            padding:  0px 20px;
+        }
+        
+    }
+    // new pro start>>>>>>>>>>>>>
+    .new-pro {
+        width: 100%;
+        height: 100%;
+
+
+        .next-text {
+
+            .menu {
+                display: none;
+            }
+        }
+
+        .new-img {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // new pro finish>>>>>>>>>>>>>>>>
+
+
+   
+    //hero section start>>>>>>>>>>>>>>>>>>
+    .hero-section {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+
+        .hero-black {
+            span {
+                display: none;
+            }
+
+            .hero-span {
+                display: none;
+            }
+        }
+
+
+
+        .hero-text {
+            display: none;
+        }
+    }
+    // hero section finish>>>>>>>>>>>>>>>>>>>
+
+    // flash sale start??>>>>>>>>>>>>>>>>
+    .flash-sale {
+        width: 100%;
+        height: 100%;
+
+
+
+        .flash {
+            .flash-text {
+                display: none;
+            }
+        }
+
+
+
+    }
+    // flash sale finish>>>>>>>>>>>>>>
+
+}
+@media (min-width:992px)and(max-width:1200px){
+#slider{
+    .slider-text{
+        a{
+            margin: 0%;
+        }
+
+    }
+
+    .slider-button{
+        bottom: 10%;
+    }
+}
+}
+
+@media (min-width:1200px) and (max-width:1360px) {
+
+    // featured start>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    .featured {
+        width: 100%;
+        height: 100%;
+    }
+    // featured finish>>>>>>>>>>>>>>>>>>>>>
+
+    // top brand start>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    #top-brands {
+        width: 100%;
+        height: 100%;
+    }
+    // top brands finish>>>>>>>>>>>>>>>>>>>>>>>>
+
+}
+
+
+
+
